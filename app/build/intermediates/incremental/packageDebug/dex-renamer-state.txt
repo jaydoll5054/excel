@@ -1,0 +1,7 @@
+#Thu Sep 28 14:34:00 SAST 2017
+base.0=/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e155f735f3841dd639979209a7089fa96c1ec926
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f911fcab145dd8f8637db770c74748daea31df5/classes.dex
+base.1=/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f911fcab145dd8f8637db770c74748daea31df5
+file.0=/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e155f735f3841dd639979209a7089fa96c1ec926/classes.dex

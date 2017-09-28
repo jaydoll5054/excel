@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/e5cdac0cf1a65966bdac2834f69597c2ce4e8785/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_b132855ed88e44404aef93c102a71606badf873e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/4fa4d9ffd80a66f6a14f79a4607babe65a1bdafb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_dfad82664c6817d0ad1d991f3236b987b02a7a97.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b9e0314a3678397deed0dbf6fda14427645c190">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e155f735f3841dd639979209a7089fa96c1ec926/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_919d7db87fdad3ff0271cd69384b95d76b225f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/00aff0601a23d4852ce2eb1f8db307e64df8451f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_b4f44534fba82aa783964a2030d39397572b3306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/28beb620974978e5685a3a428f58560b937f0357/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_f80e3560a331c2a4ef8ee8754ad5ac3e0390d925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_45b6201e35a3e7fc2170f40e193188aa3bdc48f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/5b3d5a824abbc9c7ee89ad06f866ca691d4e713b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_e48689a1f9ce5783c1bc81fa4d83310297846d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/b380b2a8dae00e7affbcdb2127066c3d28489b3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_d6ec33a1711500a0f7b7cdbd43bba9e685dfbc06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/7f004051c1218d47fb24f01e7e04a373679324f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_afece5eba7a25cc4ec8c8d447626d37fe2e94f7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f911fcab145dd8f8637db770c74748daea31df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/f5f756a00d436b310e800e2be93c70019bec0cee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_f429946f316db5bdfe0090c4c63a4103503961a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/237bec963cadc0cbda4426a06d767bf1294ea52b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_f18dd6f1ef21593d705bc6177e093268b6f70fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasondollie/.android/build-cache/8bf622af52b89948d7ae24ce514c02307573b926/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/jasondollie/AndroidStudioProjects/excel2/app/build/intermediates/pre-dexed/debug/classes_44f7c7bfd0c5965648446f859a4622e25e94d254.jar" />
+    </item>
+
+</items>

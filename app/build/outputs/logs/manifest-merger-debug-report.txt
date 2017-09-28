@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/237bec963cadc0cbda4426a06d767bf1294ea52b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/7f004051c1218d47fb24f01e7e04a373679324f2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/4fa4d9ffd80a66f6a14f79a4607babe65a1bdafb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/5b3d5a824abbc9c7ee89ad06f866ca691d4e713b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/b380b2a8dae00e7affbcdb2127066c3d28489b3f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/00aff0601a23d4852ce2eb1f8db307e64df8451f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/8bf622af52b89948d7ae24ce514c02307573b926/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/e5cdac0cf1a65966bdac2834f69597c2ce4e8785/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/28beb620974978e5685a3a428f58560b937f0357/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jasondollie/.android/build-cache/f5f756a00d436b310e800e2be93c70019bec0cee/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.jasondollie.excel.MainActivity
+ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/237bec963cadc0cbda4426a06d767bf1294ea52b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/7f004051c1218d47fb24f01e7e04a373679324f2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/4fa4d9ffd80a66f6a14f79a4607babe65a1bdafb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/5b3d5a824abbc9c7ee89ad06f866ca691d4e713b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/b380b2a8dae00e7affbcdb2127066c3d28489b3f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/00aff0601a23d4852ce2eb1f8db307e64df8451f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/8bf622af52b89948d7ae24ce514c02307573b926/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/e5cdac0cf1a65966bdac2834f69597c2ce4e8785/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/28beb620974978e5685a3a428f58560b937f0357/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jasondollie/.android/build-cache/f5f756a00d436b310e800e2be93c70019bec0cee/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/237bec963cadc0cbda4426a06d767bf1294ea52b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasondollie/AndroidStudioProjects/excel2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/237bec963cadc0cbda4426a06d767bf1294ea52b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/7f004051c1218d47fb24f01e7e04a373679324f2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/4fa4d9ffd80a66f6a14f79a4607babe65a1bdafb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/5b3d5a824abbc9c7ee89ad06f866ca691d4e713b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/b380b2a8dae00e7affbcdb2127066c3d28489b3f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/00aff0601a23d4852ce2eb1f8db307e64df8451f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/8bf622af52b89948d7ae24ce514c02307573b926/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/e5cdac0cf1a65966bdac2834f69597c2ce4e8785/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/28beb620974978e5685a3a428f58560b937f0357/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/237bec963cadc0cbda4426a06d767bf1294ea52b/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/jasondollie/.android/build-cache/237bec963cadc0cbda4426a06d767bf1294ea52b/output/AndroidManifest.xml:26:9-47
